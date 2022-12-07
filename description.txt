@@ -1,0 +1,38 @@
+EYE BY DIRECT 
+
+Project by :
+Nameeruddin
+Mohammad Talha
+Hafiza hafsa ahmed
+
+(Process Description)
+
+ORDERING SPECTICALS 
+After receiving the order first check the availability of stock of specific spectacles choose by customer. 
+If there is need for the stock then require raw material and then start manufacturing and then conform the order. 
+If the stock is there then we just retrieve the product from warehouse, conform the order, ship them and make 
+invoice of the product which is shipped and then archive the order. The order is full filled.
+
+DELIVERY
+After conforming the order, there is two ways to send the orders to the customers with safety or otherwise it will 
+be rejected by customer. In order to avoid these situations, after the confirmation of order, get the Address where 
+the order has been placed from. Shipped the product to that place and if the order gets cancelled on some reason, 
+then the safety of product is mandatory and making sure that it’s not been opened. Once order is placed to the customer, 
+then remove the product from invoice, and collect the payment. If product is cancelled, then the product is reimbursed 
+to the customer again.
+
+PROCUREMENT MATERIALS
+After getting the purchase request, If a team accept the order, then we create purchase order, send multiple requests 
+for quotation, ask the vendor for the order, make a contract with the vendor and then send the product. After completing 
+the order, check the invoice, authorize it and then pay the vendor and at the end, send the product to customer.  
+
+INVENTORY MANAGEMENT 
+Spectacles  are delivered to the receiving area of the warehouse, finished products for resale (vendor) then Indirect 
+materials that support the daily operations of a business but not production then makes sure products are reviewed, 
+sorted, and stored on shelves in special stock areas. Product availability must be checked, inventory and helps minimize 
+the chance of stockouts, dead stock, missed or duplicated orders, and risk exposure due to theft and fraud. Once orders 
+are placed by customers, either internal or external. 
+The required goods are pulled from stock area from supplier, directly to the retailer/customer/end user (finished goods), 
+or routed to the appropriate business unit/department (internal requests). Records are updated and shared with all 
+relevant stakeholders. Inventory levels are used to restock goods and materials as needed. For Just-in-Time systems, 
+usage data may be analyzed to create more accurate data.
