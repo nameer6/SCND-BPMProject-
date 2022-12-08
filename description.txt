@@ -20,6 +20,7 @@ the order has been placed from. Shipped the product to that place and if the ord
 then the safety of product is mandatory and making sure that it’s not been opened. Once order is placed to the customer, 
 then remove the product from invoice, and collect the payment. If product is cancelled, then the product is reimbursed 
 to the customer again.
+<<<<<<< HEAD
 
 INVENTORY MANAGEMENT 
 Spectacles  are delivered to the receiving area of the warehouse, finished products for resale (vendor) then Indirect 
@@ -31,3 +32,5 @@ The required goods are pulled from stock area from supplier, directly to the ret
 or routed to the appropriate business unit/department (internal requests). Records are updated and shared with all 
 relevant stakeholders. Inventory levels are used to restock goods and materials as needed. For Just-in-Time systems, 
 usage data may be analyzed to create more accurate data.
+=======
+>>>>>>> c8d78db (Create description.txt)
