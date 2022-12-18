@@ -1,9 +1,11 @@
 package main;
+
 import java.sql.*;
+
 public class AddProduct {
 
 	public String addProductInfo(String Name , String Description , String Type , int CategoryID , float Size , float Weight , 
-			String Color , int StandardCost , int ListPrice) {
+			String Color , int StandardCost , int ListPrice ) {
 		try{
 			Class.forName("com.mysql.jdbc.Driver");
 			Connection con =
@@ -14,7 +16,6 @@ public class AddProduct {
 							+ ",  '"+StandardCost+"' ,  '"+ListPrice+"');");
 
 		
-			
 			con.close();
 			
 			} catch(Exception e)
