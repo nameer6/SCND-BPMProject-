@@ -1,0 +1,22 @@
+EYE BY DIRECT 
+
+Project by :
+Nameeruddin
+Mohammad Talha
+Hafiza hafsa ahmed
+
+(Process Description)
+
+ORDERING SPECTICALS 
+After receiving the order first check the availability of stock of specific spectacles choose by customer. 
+If there is need for the stock then require raw material and then start manufacturing and then conform the order. 
+If the stock is there then we just retrieve the product from warehouse, conform the order, ship them and make 
+invoice of the product which is shipped and then archive the order. The order is full filled.
+
+DELIVERY
+After conforming the order, there is two ways to send the orders to the customers with safety or otherwise it will 
+be rejected by customer. In order to avoid these situations, after the confirmation of order, get the Address where 
+the order has been placed from. Shipped the product to that place and if the order gets cancelled on some reason, 
+then the safety of product is mandatory and making sure that it’s not been opened. Once order is placed to the customer, 
+then remove the product from invoice, and collect the payment. If product is cancelled, then the product is reimbursed 
+to the customer again.
