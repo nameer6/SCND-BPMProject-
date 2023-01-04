@@ -1,0 +1,10 @@
+INVENTORY MANAGEMENT 
+Spectacles  are delivered to the receiving area of the warehouse, finished products for resale (vendor) then Indirect 
+materials that support the daily operations of a business but not production then makes sure products are reviewed, 
+sorted, and stored on shelves in special stock areas. Product availability must be checked, inventory and helps minimize 
+the chance of stockouts, dead stock, missed or duplicated orders, and risk exposure due to theft and fraud. Once orders 
+are placed by customers, either internal or external. 
+The required goods are pulled from stock area from supplier, directly to the retailer/customer/end user (finished goods), 
+or routed to the appropriate business unit/department (internal requests). Records are updated and shared with all 
+relevant stakeholders. Inventory levels are used to restock goods and materials as needed. For Just-in-Time systems, 
+usage data may be analyzed to create more accurate data.
