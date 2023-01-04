@@ -21,6 +21,7 @@
       <parameter name="wsdlPortType" value="AddProduct"/>
       <parameter name="typeMappingVersion" value="1.2"/>
       <operation name="addProductInfo" qname="operNS:addProductInfo" xmlns:operNS="http://main" returnQName="retNS:addProductInfoReturn" xmlns:retNS="http://main" returnType="rtns:string" xmlns:rtns="http://www.w3.org/2001/XMLSchema" soapAction="" >
+        <parameter qname="pns:id" xmlns:pns="http://main" type="tns:int" xmlns:tns="http://www.w3.org/2001/XMLSchema"/>
         <parameter qname="pns:Name" xmlns:pns="http://main" type="tns:string" xmlns:tns="http://www.w3.org/2001/XMLSchema"/>
         <parameter qname="pns:Description" xmlns:pns="http://main" type="tns:string" xmlns:tns="http://www.w3.org/2001/XMLSchema"/>
         <parameter qname="pns:Type" xmlns:pns="http://main" type="tns:string" xmlns:tns="http://www.w3.org/2001/XMLSchema"/>
